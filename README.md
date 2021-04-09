@@ -1,5 +1,7 @@
 # Intl Locale Info API
 
+![Stage 3](https://badges.aleen42.com/src/tc39_4.svg)
+
 ## Draft Spec
 https://tc39.github.io/proposal-intl-locale-info 
 ## Stage 
